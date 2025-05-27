@@ -3,7 +3,7 @@ import React from 'react'
 const Contact = () => {
     const handleDownload = () => {
     // For files in public folder:
-    const fileUrl = '/WebdevCV.pdf';
+    const fileUrl = '/WebdevCv.pdf';
     const link = document.createElement('a');
     link.href = fileUrl;
     link.download = 'WebdevCV.pdf'; // Optional: Set filename
