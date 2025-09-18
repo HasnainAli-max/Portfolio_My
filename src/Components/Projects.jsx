@@ -9,7 +9,7 @@ const Projects = () => {
 
   return (
     <>
-    <h1 className="font-bold text-5xl text-center bg-white text-black pt-[90px] ">Portfolio</h1>
+    <h1 className="font-bold text-5xl text-center bg-white text-black pt-[90px] ">PROJECTS</h1>
     <div id="project" className="w-full py-[13rem] px-4 bg-white text-black mt-[-150px]">
         <div className="max-w-[1240px] mx-auto grid md:grid-cols-3 gap-8 ">
             <div className="w-full shadow-xl flex flex-col  my-4 rounded-lg hover:scale-105 duration-300 ">
